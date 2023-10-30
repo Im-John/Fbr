@@ -15,7 +15,7 @@ $<code> cd Fbr </code><br>
 $<code> pip install -r requirments.txt </code><br><br>
 
 <b> RUN USING PYTHON3 </b><br><br>
-$<code> python3 start.py </code><br>
+$<code> python3 run.py </code><br>
 
 ==================================<br>
 DEVELOP BY JOHN EX DEV PCGPH
