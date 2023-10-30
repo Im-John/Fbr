@@ -4,6 +4,7 @@ $<code> termux-setup-storage </code><br>
 $<code> apt update </code><br>
 $<code> apt upgrade </code><br>
 $<code> apt install python python3 </code><br>
+$<code> pip install pycryptodome </code><br>
 $<code> pip3 install flask </code><br>
 $<code> pkg install -y python ndk-sysroot clang make \ </code><br>
 $<code> libjpeg-turbo </code><br>
